@@ -1,7 +1,7 @@
 var http = require('http');
 var net = require('net');
 //Lets define a port we want to listen to
-const PORT=8080; 
+const PORT=80; 
 var dvrurl='182.191.87.200';
 var dvrport=37777;
 var connect_status = 'false';
